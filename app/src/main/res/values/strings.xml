@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task 2</string>
+    <string name="message1">Hello World</string>
+    <string name="button_send">Continue</string>
+    <string name="message2">Goodbye World</string>
+</resources>
